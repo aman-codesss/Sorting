@@ -11,7 +11,7 @@ int bubbleSort(int *arr,int n){
         }
         if(isSwapped==false)
         break;//breaks the loop if found already sorted array on 1st loop
-    }
+    }//also the time complexity is reduced from O(n^2) to O(n) for best case scenario(already sorted)
 }
 int main(){
 
