@@ -1,0 +1,5 @@
+- April 24, 2024 selection sort, unstable algorithm
+    - used when the array/vector/list size is small.
+    - space complexity = O(1) constant as variable is declared.
+    - time complexity  = O(n^2) for both best(already sorted)/worst(descending) case scenario.
+    - selection sort is unstable algorithm as it doesn’t guarantee the preservation of the relative order of equal elements during sorting
